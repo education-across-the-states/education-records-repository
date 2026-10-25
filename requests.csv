@@ -1,0 +1,57 @@
+jurisdiction,agency,request_id,request_type,date_sent,route,status_notes
+District of Columbia,OSSE,ERP-DC-2026-1,Formal request (Letter 2),2026-10-25,OSSE.FOIA@dc.gov,"Sent Oct 25, 2026. DC FOIA; response 15 business days"
+New York,NYSED,ERP-NY-2026-1,Formal request (Letter 2),2026-10-25,FOIL@nysed.gov,"Sent Oct 25, 2026. FOIL; 5 business days"
+New Jersey,NJDOE,ERP-NJ-2026-1,Formal request (Letter 2),2026-10-25,opra.custodian@doe.nj.gov,"Sent Oct 25, 2026. OPRA; 7 business days"
+Rhode Island,RIDE,ERP-RI-2026-1,Formal request (Letter 2),2026-10-25,APRA@ride.ri.gov,"Sent Oct 25, 2026. APRA; 10 business days"
+Maine,Maine DOE,ERP-ME-2026-1,Formal request (Letter 2),2026-10-25,Courtney.Belolan@maine.gov,"Sent Oct 25, 2026. FOAA; acknowledgment 5 business days"
+Delaware,DDOE,ERP-DE-2026-1,Formal request (Letter 2),2026-10-25,FOIACoordinator@doe.k12.de.us,"Sent Oct 25, 2026. FOIA; 15 business days"
+Illinois,ISBE,ERP-IL-2026-1,Formal request (Letter 2),2026-10-25,foia@isbe.net,"Sent Oct 25, 2026. FOIA; 5 business days"
+Michigan,MDE,ERP-MI-2026-1,Formal request (Letter 2),2026-10-25,MDE-FOIA@michigan.gov,"Sent Oct 25, 2026. FOIA; 5 business days"
+Minnesota,MDE,ERP-MN-2026-1,Formal request (Letter 2),2026-10-25,mde.datapractices@state.mn.us,"Sent Oct 25, 2026. Data Practices Act; prompt response"
+Kansas,KSDE,ERP-KS-2026-1,Formal request (Letter 2),2026-10-25,GC@ksde.gov,"Sent Oct 25, 2026. KORA; act by end of 3rd business day"
+Georgia,GaDOE,ERP-GA-2026-1,Formal request (Letter 2),2026-10-25,openrecords@doe.k12.ga.us,"Sent Oct 25, 2026. Open Records Act; 3 business days"
+Florida,FLDOE,ERP-FL-2026-1,Formal request (Letter 2),2026-10-25,PRR@fldoe.org,"Sent Oct 25, 2026. Public records, Ch. 119; prompt / reasonable time"
+Texas,TEA,ERP-TX-2026-1,Formal request (Letter 2),2026-10-25,pir@tea.texas.gov,"Sent Oct 25, 2026. Public Information Act"
+Louisiana,LDOE,ERP-LA-2026-1,Formal request (Letter 2),2026-10-25,LDEPublicRecords@la.gov,"Sent Oct 25, 2026. Public Records Law; 5 business days"
+Arkansas,ADE / DESE,ERP-AR-2026-1,Formal request (Letter 2),2026-10-25,foia@ade.arkansas.gov,"Sent Oct 25, 2026. RESIDENCY GATE: Ark. FOIA runs to state citizens (§ 25-19-105). Sent as a national news organization; no residency claimed"
+Mississippi,MDE,ERP-MS-2026-1,Formal request (Letter 2),2026-10-25,reporting@mdek12.org,"Sent Oct 25, 2026. Public Records Act; response 7 working days, production by 14"
+South Carolina,SCDE,ERP-SC-2026-1,Formal request (Letter 2),2026-10-25,foia@ed.sc.gov,"Sent Oct 25, 2026. FOIA; determination 10 business days"
+Tennessee,TDOE,ERP-TN-2026-1,Formal request (Letter 2),2026-10-25,TDOE.OpenRecords@tn.gov,"Sent Oct 25, 2026. RESIDENCY GATE: TPRA runs to state citizens with proof (§ 10-7-503). Sent as a national news organization; no citizenship claimed or proof offered"
+Idaho,Idaho SDE,ERP-ID-2026-1,Formal request (Letter 2),2026-10-25,publicrecords@sde.idaho.gov,"Sent Oct 25, 2026. Public Records Law; 3 business days (up to 10 with notice)"
+Washington,OSPI,ERP-WA-2026-1,Formal request (Letter 2),2026-10-25,publicrecordsrequest@k12.wa.us,"Sent Oct 25, 2026. Public Records Act; 5 business days"
+New Mexico,NMPED,ERP-NM-2026-1,Formal request (Letter 2),2026-10-25,Bev.Friedman@ped.nm.gov,"Sent Oct 25, 2026. IPRA; as soon as practicable, ≤ 15 calendar days"
+Kentucky,KDE,ERP-KY-2026-1,Formal request (Letter 2),2026-10-25,Todd.Allen@education.ky.gov,"Sent Oct 25, 2026. RESIDENCY GATE: KRS 61.870(10) residents-only + residency statement. Sent as a national news organization; no residency claimed, no residency statement included"
+Virginia,VDOE,ERP-VA-2026-1,Formal request (Letter 2),2026-10-25,foia@doe.virginia.gov,"Sent Oct 25, 2026. RESIDENCY GATE: VA FOIA runs to VA citizens and in-state-circulation media (§ 2.2-3704). Sent as a national news organization; no citizenship or in-state circulation claimed"
+New Hampshire,NH DOE,ERP-NH-2026-1,Formal request (Letter 2),2026-10-25,Kimberly.C.Houghton@doe.nh.gov,"Sent Oct 25, 2026. RSA 91-A; 5 business days. Expansion request (full menu), separate from RTK-2026-62. Homeschool item re-scoped by follow-up addendum (NH law changed July 1, 2026, HB 1268)"
+Hawaii,HIDOE,ERP-HI-2026-1,Formal request (Letter 2),2026-10-25,doeinfo@k12.hi.us,"Sent Oct 25, 2026. UIPA (HRS ch. 92F); formal-request notice within 10 business days"
+U.S. Virgin Islands,VIDE,,Custodian-first letter (Letter 1),2026-10-25,publicrelations@vide.vi,"Letter sent Oct 25, 2026. Sunshine Act, 3 V.I.C. § 881 (no statutory deadline). Awaiting custodian / route confirmation"
+Northern Mariana Islands,CNMI PSS,,Custodian-first letter (Letter 1),2026-10-25,are@cnmipss.org,"Letter sent Oct 25, 2026. 1 CMC § 9917. Asked custodian identity + correct records route"
+Alaska,DEED,,Custodian-first letter (Letter 1),2026-10-25,eed.contact@alaska.gov,"Letter sent Oct 25, 2026. Public Records Act (AS 40.25). General contact only — asked to confirm the records route before formal filing"
+California,CDE,,Custodian-first letter (Letter 1),2026-10-25,communications@cde.ca.gov,"Letter sent Oct 25, 2026. CPRA. Letter expressly NOT a filing — asks Communications to confirm the PRA intake route / custodian (CDE publishes none)"
+Pennsylvania,PDE,,Custodian-first letter (Letter 1),2026-10-25,RA-RTK-Education@pa.gov,"Letter sent Oct 25, 2026. Right-to-Know Law. Custodian-first route confirmation"
+North Carolina,NC DPI,,Custodian-first letter (Letter 1),2026-10-25,communications@dpi.nc.gov,"Letter sent Oct 25, 2026. Public Records Law (N.C.G.S. ch. 132). Awaiting records-route confirmation"
+Ohio,ODEW,,Custodian-first letter (Letter 1),2026-10-25,contact.center@education.ohio.gov,"Letter sent Oct 25, 2026. ORC § 149.43. Awaiting records-route confirmation"
+Missouri,DESE,,Custodian-first letter (Letter 1),2026-10-25,communications@dese.mo.gov,"Letter sent Oct 25, 2026. Sunshine Law (ch. 610). Addressed to Custodian of Records / General Counsel. Awaiting route confirmation"
+Puerto Rico,DEPR,,Portal-only (filing pending),,Portal de Transparencia Pública (transparencia.pr.gov),Portal filing pending. Ley 141-2019 as amended by Ley 156-2025; 20 business days (central office)
+Colorado,CDE,,Portal-only (filing pending),,CDE CORA request form,Portal filing pending. CORA; 3 working days
+Arizona,ADE,,Portal-only (filing pending),,Public Record Request form (azed.gov),Portal filing pending. A.R.S. § 39-121; promptly
+Utah,USBE,,Portal-only (filing pending),,Utah Open Records Portal (openrecords.utah.gov),Portal filing pending. GRAMA; 10 business days
+Nevada,NDE,,Portal-only (filing pending),,Public Records Request Form (Smartsheet),Portal filing pending. NRS 239; 5 business days
+Oregon,ODE,,Portal-only (filing pending),,Records Request Form (Smartsheet),Portal filing pending. ORS 192.329; acknowledgment 5 / completion 15 business days
+Indiana,IDOE,,Portal-only (filing pending),,DOE APRA Portal,Portal filing pending. APRA; 7 days for written requests
+Wisconsin,DPI,,Portal-only (filing pending),,Public Records Requests online form,Portal filing pending. Wis. Stat. § 19.35; as soon as practicable
+Iowa,Iowa DE,,Portal-only (filing pending),,Open Records Request form,Portal filing pending. Iowa Code ch. 22
+South Dakota,SD DOE,,Portal-only (filing pending),,State Public Records Request portal (MySD),Portal filing pending. SDCL § 1-27-37; 10 business days
+Oklahoma,OSDE,,Portal-only (filing pending),,Open Records Request form,Portal filing pending. Portal-only filing per OSDE
+Massachusetts,DESE,,Portal-only (filing pending),,Public Records Center,Portal filing pending. M.G.L. c. 66 § 10; 10 business days
+Maryland,MSDE,,Portal-only (filing pending),,MSDE Public Records Center (GovQA),Portal filing pending. MPIA; agency expressly asks that formal requests NOT be emailed
+Alabama,ALSDE,,Portal-only (filing pending),,Public Records Center / Data Request Portal,Portal filing pending. RESIDENCY GATE: Alabama residents only. Portal filing to be made as a national news organization; gate flagged for the filing step
+Montana,OPI,,Portal-only (filing pending),,Statewide OPIR portal (mt-pir.arkcase.us),Portal filing pending. OPI's listing as an OPIR-supported agency NOT confirmed — confirm at filing
+Guam,GDOE,,Held — no route,,,Held — nothing sent. No general contact email published on gdoe.net (homepage: street address/phone/fax only; all published addresses personal or division-specific). Uncorroborated FOIA address not used
+American Samoa,ASDOE,,Held — no route,,,Held — nothing sent. No email published on amsamoadoe.com at all; only published general contact is phone. Public Records Act citation conflicts across sources — confirm law + route before any filing
+Vermont,AOE,,Held — no route,,,Held — nothing sent. Public records request footer link exists on education.vermont.gov but the linked page's address was not exposed in text fetch. One live-browser click-through resolves it
+Wyoming,WDE,,Held — no route,,,Held — nothing sent. No WDE-specific route on edu.wyoming.gov; no designated-person email established from the agency's own pages in this pass
+Nebraska,NDE,,Held — no route,,,"Held — nothing sent. No email or portal published (Policy G22: written request only) — mail to NDE, P.O. Box 94933, Lincoln, NE 68509-4933"
+North Dakota,NDDPI,,Held — no route,,,"Held — nothing sent. No email or portal published — mail to NDDPI, 600 E. Boulevard Ave., Dept. 201, Bismarck, ND 58505-0440"
+Connecticut,CSDE,,Held — no route,,,"Held — nothing sent. No SDE-specific FOI page, officer, email, or portal located on portal.ct.gov/SDE"
+West Virginia,WVDE,,Held — no route,,,"Held — nothing sent. Policy 1230 provides written request to the State Superintendent (custodian), 1900 Kanawha Blvd. East, Building 6, Charleston, WV 25305 — no FOIA email or portal published (mail-only)"
